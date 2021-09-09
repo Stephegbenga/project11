@@ -1,0 +1,18 @@
+{
+  "name": "offwhatsappapi",
+  "version": "1.0.0",
+  "description": "whatsapp api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steve",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.14.1"
+  },
+  "engines": {
+    "node": "^10.0.0"
+  }
+}
